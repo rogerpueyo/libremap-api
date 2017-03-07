@@ -21,7 +21,7 @@ We would like to see more communities sharing their data with other communities.
    "_id": "libremap.net-up",
    "source": "libremap",
    "target": "http://libremap.net/api/db",
-   "continuous": true,
+   "continuous": true
 }
 ```
 
